@@ -12,4 +12,4 @@
 
 [Code Walkthrough - Nested Repeats on Snap (Week 3: Mouse Drawing an Octagon)](https://www.youtube.com/watch?v=CdH_a7dFLPI)
 
-
+[Code Walkthrough - Events (Week 3: Monkey and Banana)](https://www.youtube.com/watch?v=MT3SQxi6wDw)
