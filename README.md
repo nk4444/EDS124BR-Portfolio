@@ -10,4 +10,6 @@
 
 [Code Walkthrough - Repeats on Scratch (Week 2: Animal Parade Quest)](https://www.youtube.com/watch?v=R0EsmQhi9Ls)
 
+[Code Walkthrough - Nested Repeats on Snap (Week 3: Mouse Drawing an Octagon)](https://www.youtube.com/watch?v=CdH_a7dFLPI)
+
 
