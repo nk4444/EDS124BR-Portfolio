@@ -21,3 +21,6 @@
 
 ### Week 4
 [Code Walkthrough - Variables (Week 4: Drawing Shapes)](https://www.youtube.com/watch?v=UCj-heWwS4I)
+
+### Week 5
+[Code Walkthrough - Conditional Loops (Week 5: Soccer Ball)](https://www.youtube.com/watch?v=YRC2fXJnmUg)
