@@ -24,3 +24,6 @@
 
 ### Week 5
 [Code Walkthrough - Conditional Loops (Week 5: Soccer Ball)](https://www.youtube.com/watch?v=YRC2fXJnmUg)
+
+### Week 6
+[Code Walkthrough - If/Else Conditions (Week 6: Ball Game)](https://www.youtube.com/watch?v=CFymZqoDeb0)
