@@ -27,3 +27,6 @@
 
 ### Week 6
 [Code Walkthrough - If/Else Conditions (Week 6: Ball Game)](https://www.youtube.com/watch?v=CFymZqoDeb0)
+
+### Week 7
+[Code Walkthrough - Nested If/Else Conditions (Week 7: Penguin at Beach)](https://www.youtube.com/watch?v=4b_p4ogtK5o)
