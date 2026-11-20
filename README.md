@@ -30,3 +30,6 @@
 
 ### Week 7
 [Code Walkthrough - Nested If/Else Conditions (Week 7: Penguin at Beach)](https://www.youtube.com/watch?v=4b_p4ogtK5o)
+
+### Week 8
+[Code Walkthrough - Compound Conditionals (Week 8: Treasure Finding)](https://www.youtube.com/watch?v=8OSh5BRcqpA)
