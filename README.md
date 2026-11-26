@@ -33,3 +33,6 @@
 
 ### Week 8
 [Code Walkthrough - Compound Conditionals (Week 8: Treasure Finding)](https://www.youtube.com/watch?v=8OSh5BRcqpA)
+
+### Week 9
+[Code Walkthrough - Abstractions (Week 9: Drawing a Picture)](https://www.youtube.com/watch?v=WrqxteCVIDQ)
